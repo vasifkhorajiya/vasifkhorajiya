@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <a href="https://github.com/vasifkhorajiya">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:064e3b,60:6d28d9,100:020617&text=VASIF%20KHORAJIYA&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=14&descAlignY=56&animation=fadeIn" width="100%" alt="Vasif Khorajiya"/>
@@ -22,80 +22,70 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
-### Hi, I'm Vasif Khorajiya 👋
-
-**Aspiring Data Analyst | BCA Student | Developer**
-
-*Turning data into insights and ideas into practical solutions.*
-
-<br/>
-
-<img src="https://img.shields.io/badge/FOCUS-Data%20Analytics-059669?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
-<img src="https://img.shields.io/badge/LEARNING-Python%20%26%20SQL-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Python and SQL"/>
-<img src="https://img.shields.io/badge/EDUCATION-BCA-7C3AED?style=for-the-badge" alt="BCA Student"/>
-
-</div>
-
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="65%" valign="top">
 
-### 🚀 Who Am I?
+### 👋 Hi, I'm Vasif Khorajiya
 
-I'm pursuing my **Bachelor of Computer Applications (BCA) at Darshan University, Rajkot**, with a strong interest in data analytics, programming, and technology-driven problem-solving.
+**Aspiring Data Analyst | BCA Student | Technology Enthusiast**
 
-I enjoy exploring datasets, identifying patterns, understanding trends, and developing practical projects. I aim to combine analytical thinking with technical skills to transform information into meaningful insights and build useful digital solutions.
+I'm currently pursuing my **Bachelor of Computer Applications (BCA) at Darshan University, Rajkot**, with a strong interest in data analytics, programming, and technology-driven problem-solving.
 
-### 🎯 Career Interests
+I enjoy transforming ideas into practical projects, exploring how data can reveal meaningful insights, and developing applications that solve real-world problems. I believe that combining analytical thinking with technical skills is essential to building smarter, data-informed solutions.
 
-- 📊 **Data Analytics:** Exploring data, identifying patterns, and discovering insights.
-- 🐍 **Python Programming:** Strengthening programming and data-processing skills.
-- 🗄️ **SQL & Databases:** Working with structured data and database concepts.
-- 📈 **Data Visualization:** Exploring Excel, Power BI, and Tableau.
-- 💻 **Software Development:** Building practical web and mobile applications.
-- 🧠 **Problem-Solving:** Applying logical thinking to technical challenges.
+### 🎯 My Professional Interests
 
-### 💼 Professional Objective
+- 📊 **Data Analytics & Visualization** — Exploring data to identify patterns, understand trends, and communicate insights effectively.
+- 🐍 **Python & Programming** — Strengthening programming fundamentals and learning to work with data efficiently.
+- 🗄️ **SQL & Database Management** — Understanding structured data, database relationships, and data retrieval.
+- 📈 **Business Intelligence** — Exploring reporting and visualization tools to make information easier to understand.
+- 💻 **Software Development** — Building practical web and mobile application projects.
+- 🧩 **Analytical Problem-Solving** — Approaching challenges with logical thinking, curiosity, and continuous improvement.
 
-My goal is to build a strong foundation in data analytics, develop hands-on experience through practical projects, and grow into a data professional who can turn complex information into clear, useful insights that support better decision-making.
+### 🚀 What I'm Working Toward
+
+My goal is to develop strong foundations in **data analysis, SQL, Python, and data visualization** while building a portfolio of practical projects that demonstrates my technical growth, problem-solving ability, and analytical mindset.
+
+I value consistency, hands-on learning, and the opportunity to turn knowledge into something useful.
 
 </td>
-<td width="38%" valign="top">
+<td width="35%" valign="top">
 
 <div align="center">
 
-### 👨‍💻 Profile Snapshot
-
-<img src="https://img.shields.io/badge/NAME-Vasif%20Khorajiya-064E3B?style=for-the-badge" alt="Name"/>
+<img src="https://img.shields.io/badge/PROFILE-OVERVIEW-064E3B?style=for-the-badge" alt="Profile overview"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CAREER-Aspiring%20Data%20Analyst-059669?style=flat-square" alt="Career"/>
+<img src="https://img.shields.io/badge/CAREER%20FOCUS-Data%20Analytics-059669?style=flat-square" alt="Career focus"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/DEGREE-Bachelor%20of%20Computer%20Applications-7C3AED?style=flat-square" alt="Degree"/>
+<img src="https://img.shields.io/badge/EDUCATION-BCA-7C3AED?style=flat-square" alt="Education"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/UNIVERSITY-Darshan%20University%2C%20Rajkot-2563EB?style=flat-square" alt="University"/>
+<img src="https://img.shields.io/badge/CORE%20SKILL-Problem%20Solving-2563EB?style=flat-square" alt="Core skill"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LOCATION-Wankaner%2C%20Morbi%2C%20Gujarat%2C%20India-0D9488?style=flat-square" alt="Wankaner, Morbi, Gujarat, India"/>
+<img src="https://img.shields.io/badge/INTERESTS-Python%20%7C%20SQL-0D9488?style=flat-square" alt="Interests"/>
 
 <br/><br/>
 
-### 💡 My Mindset
+<img src="https://img.shields.io/badge/LOCATION-Gujarat%2C%20India-0891B2?style=flat-square" alt="Location"/>
 
-*Stay curious. Keep learning. Build with purpose.*
+<br/><br/>
+
+### 💡 My Mission
+
+*Learn continuously. Analyze thoughtfully. Build meaningful solutions.*
 
 <br/>
 
 <a href="https://github.com/vasifkhorajiya?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/>
+<img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-059669?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/>
 </a>
 
 </div>
@@ -107,7 +97,7 @@ My goal is to build a strong foundation in data analytics, develop hands-on expe
 <details>
 <summary><b>💡 My Development Philosophy</b></summary>
 
-I believe consistent practice, curiosity, and hands-on experience are essential for growth. I focus on understanding concepts, applying what I learn, solving problems step by step, and continuously improving the quality of my work.
+I believe consistent practice and curiosity are essential for growth. I focus on understanding concepts, applying them to real projects, learning from challenges, and improving the quality of my work over time.
 
 ```python
 class VasifKhorajiya:
@@ -220,9 +210,7 @@ print(me.mindset())
 
 A full-stack restaurant management project connecting the frontend, backend, and database.
 
-**Technologies:**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql,js&perline=5" alt="React, Node.js, Express, PostgreSQL and JavaScript"/>
+**Technologies:** React.js · Node.js · Express.js · PostgreSQL · JavaScript
 
 **Focus:** Application development and database integration.
 
@@ -247,9 +235,7 @@ A full-stack restaurant management project connecting the frontend, backend, and
 
 A frontend website project focused on presenting Indian heritage through web technologies.
 
-**Technologies:**
-
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="HTML, CSS and JavaScript"/>
+**Technologies:** HTML · CSS · JavaScript
 
 **Focus:** Web design and frontend development.
 
@@ -276,11 +262,7 @@ A frontend website project focused on presenting Indian heritage through web tec
 
 A Python project that uses CSV files for library-related records and file-based data handling.
 
-**Technologies:**
-
-<img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python"/>
-
-`CSV`
+**Technologies:** Python · CSV
 
 **Focus:** Programming logic and data management.
 
@@ -305,9 +287,7 @@ A Python project that uses CSV files for library-related records and file-based 
 
 A mobile application project using Flutter and SQLite for local data storage.
 
-**Technologies:**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,sqlite&perline=3" alt="Flutter, Dart and SQLite"/>
+**Technologies:** Flutter · Dart · SQLite
 
 **Focus:** Mobile application development and local data persistence.
 
