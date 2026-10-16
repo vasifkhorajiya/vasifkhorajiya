@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/vasifkhorajiya">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:064e3b,60:6d28d9,100:020617&text=VASIF%20KHORAJIYA&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=14&descAlignY=56&animation=fadeIn" width="100%" alt="Vasif Khorajiya premium animated banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:064e3b,60:6d28d9,100:020617&text=VASIF%20KHORAJIYA&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=14&descAlignY=56&animation=fadeIn" width="100%" alt="Vasif Khorajiya premium banner"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=650&color=34D399&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+WELCOME+TO+MY+DIGITAL+WORLD;%F0%9F%93%8A+ASPIRING+DATA+ANALYST;%F0%9F%90%8D+PYTHON+%7C+SQL+%7C+DATA+INSIGHTS;%F0%9F%92%BB+DEVELOPER+%7C+CREATIVE+THINKER;%E2%9C%A8+LEARN.+BUILD.+GROW." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=650&color=34D399&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+WELCOME+TO+MY+DIGITAL+WORLD;%F0%9F%93%8A+ASPIRING+DATA+ANALYST;%F0%9F%90%8D+PYTHON+%7C+SQL+%7C+DATA+INSIGHTS;%F0%9F%92%BB+DEVELOPER+%7C+CREATIVE+THINKER;%E2%9C%A8+LEARN.+BUILD.+GROW" alt="Animated introduction"/>
 
 <br/><br/>
 
@@ -24,37 +24,72 @@
 
 <div align="center">
 
-### Hey, I'm Vasif Khorajiya! 👋
+<img src="https://img.shields.io/badge/HELLO%2C%20WORLD-059669?style=for-the-badge&logo=github&logoColor=white" alt="Hello World"/>
 
-**BCA Student · Aspiring Data Analyst · Technology Enthusiast**
+# 👋 Hey, I'm Vasif Khorajiya
 
-*Turning curiosity into code, data into insights, and ideas into projects.*
+### Aspiring Data Analyst · BCA Student · Developer
+
+*Turning data into insights, ideas into projects, and curiosity into continuous growth.*
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/DATA-059669?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data"/>
+
+**Data & Insights**
+
+<sub>Exploring analysis and visualization</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/CODE-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code"/>
+
+**Development**
+
+<sub>Building practical software projects</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/GROWTH-0D9488?style=for-the-badge&logo=target&logoColor=white" alt="Growth"/>
+
+**Continuous Learning**
+
+<sub>Learning, experimenting and improving</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-I'm passionate about data analytics, programming, and building practical digital solutions. I enjoy exploring technology, developing projects, and continuously improving my technical and analytical skills.
+I'm a **Bachelor of Computer Applications (BCA) student at Darshan University**, passionate about data analytics, programming, and technology. I enjoy creating projects, exploring new tools, and developing the analytical and technical skills needed to solve real-world problems.
 
 - 📍 **Location:** Wankaner, Morbi, Gujarat, India
-- 🎓 **Education:** BCA at Darshan University
-- 🎯 **Career Goal:** Aspiring Data Analyst
-- 🐍 **Learning:** Python, SQL, Pandas and NumPy
+- 🎓 **Education:** BCA, Darshan University (2024–2027)
+- 🎯 **Career Goal:** Data Analyst
+- 🐍 **Currently Exploring:** Python, SQL, Pandas and NumPy
 - 📊 **Interests:** Data analysis, visualization and reporting
 - 💻 **Development:** Web and mobile applications
 - 🌱 **Mindset:** Learn continuously, build practically, grow consistently
 
 <details>
-<summary><b>💡 My Developer Mindset</b></summary>
+<summary><b>💡 My Developer Philosophy</b></summary>
+
+I believe every project is an opportunity to learn something new. My approach is simple: understand the problem, explore solutions, build something practical, and improve through feedback.
 
 ```python
-class VasifKhorajiya:
+class Vasif:
     role = "Aspiring Data Analyst"
-    mindset = ["Curiosity", "Consistency", "Growth"]
-    interests = ["Data", "Technology", "Problem Solving"]
+    values = ["Curiosity", "Consistency", "Creativity"]
 
     def mission(self):
-        return "Turn ideas into useful solutions."
+        return "Learn continuously. Build meaningfully."
 
-me = VasifKhorajiya()
+me = Vasif()
 print(me.mission())
 ```
 
@@ -66,27 +101,66 @@ print(me.mission())
 
 <div align="center">
 
-### 🐍 Programming & Web
+*Technologies I'm learning, exploring, and applying across my projects.*
+
+### 🐍 Programming Languages & Web
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Programming and web technologies"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-Learning%20%26%20Projects-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-Web%20Development-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML%20%26%20CSS-Web%20Fundamentals-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML and CSS"/>
+
 ### 📊 Data Analytics & Visualization
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SQL-Queries%20%26%20Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Excel-Data%20Handling-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+
+<sub>Continuously developing analytics skills through learning, practice and projects.</sub>
 
 ### 🌐 Web & Mobile Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,dart&theme=dark" alt="Web and mobile development"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,dart&theme=dark" alt="Web and mobile technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
 
 ### 🗄️ Databases & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode&theme=dark" alt="Databases and tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode&theme=dark" alt="Databases and developer tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Database-Design%20%26%20Integration-0D9488?style=flat-square&logo=databricks&logoColor=white" alt="Database integration"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-Project%20Collaboration-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
+
+<details>
+<summary><b>🧩 How I Apply My Skills</b></summary>
+
+| Area | Practical Focus |
+|---|---|
+| Programming | Logic, problem-solving and writing code |
+| Data Analytics | Learning to clean, explore and interpret data |
+| Web Development | Building user interfaces and application features |
+| Databases | Storing, querying and managing application data |
+| Developer Tools | Version control and organizing project code |
+
+</details>
 
 ---
 
@@ -221,39 +295,6 @@ A mobile application project exploring Flutter development and local database st
 
 ---
 
-## 🧭 Learning Roadmap
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Data Analytics
-
-- Python for data analysis
-- Pandas and NumPy
-- SQL queries and joins
-- Excel and reporting
-- Power BI and visualization
-- Statistics and interpreting trends
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Software Development
-
-- HTML, CSS and JavaScript
-- React and Node.js fundamentals
-- API and database integration
-- Flutter and Dart
-- Git and GitHub workflows
-- Project documentation
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎓 Education
 
 <table>
@@ -321,7 +362,7 @@ GNMS School, Wankaner
 **LEARN · BUILD · ANALYZE · INNOVATE**
 
 <a href="https://github.com/vasifkhorajiya">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020617,30:064e3b,65:6d28d9,100:020617&section=footer" width="100%" alt="Emerald and purple footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020617,30:064e3b,65:6d28d9,100:020617&section=footer" width="100%" alt="Emerald and purple footer"/>
 </a>
 
 </div>
