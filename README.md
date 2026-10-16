@@ -1,20 +1,20 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:064e3b,60:6d28d9,100:020617&text=VASIF%20KHORAJIYA&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=15&descAlignY=56&animation=fadeIn" width="100%" alt="Animated Vasif Khorajiya banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:064e3b,60:6d28d9,100:020617&text=VASIF%20KHORAJIYA&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=ASPIRING%20DATA%20ANALYST%20%7C%20DEVELOPER&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="Vasif Khorajiya animated banner"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=650&color=34D399&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+WELCOME+TO+MY+GITHUB+UNIVERSE;%F0%9F%93%8A+ASPIRING+DATA+ANALYST;%F0%9F%90%8D+PYTHON+%7C+SQL+%7C+DATA;%F0%9F%92%BB+DEVELOPER+%7C+PROBLEM+SOLVER;%E2%9C%A8+LEARN.+BUILD.+INNOVATE." alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=650&color=34D399&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+WELCOME+TO+MY+DIGITAL+WORLD;%F0%9F%93%8A+ASPIRING+DATA+ANALYST;%F0%9F%90%8D+PYTHON+%7C+SQL+%7C+DATA+INSIGHTS;%F0%9F%92%BB+DEVELOPER+%7C+CREATIVE+THINKER;%E2%9C%A8+LEARN.+BUILD.+GROW." alt="Animated introduction"/>
 </a>
-
-<br/>
-
-<a href="https://github.com/vasifkhorajiya?tab=repositories"><img src="https://img.shields.io/badge/⚡_EXPLORE-PROJECTS-059669?style=for-the-badge&labelColor=020617" alt="Explore projects"/></a>
-<a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio"><img src="https://img.shields.io/badge/🚀_MY-PORTFOLIO-7C3AED?style=for-the-badge&labelColor=020617" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/vasifkhorajiya/"><img src="https://img.shields.io/badge/🤝_LET'S-CONNECT-2563EB?style=for-the-badge&labelColor=020617" alt="LinkedIn"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vasifkhorajiya&style=for-the-badge&color=10B981&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+<a href="https://github.com/vasifkhorajiya?tab=repositories"><img src="https://img.shields.io/badge/⚡_EXPLORE_MY-PROJECTS-059669?style=for-the-badge&labelColor=020617" alt="Explore projects"/></a>
+<a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio"><img src="https://img.shields.io/badge/🚀_MY-PORTFOLIO-7C3AED?style=for-the-badge&labelColor=020617" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/vasifkhorajiya/"><img src="https://img.shields.io/badge/🤝_CONNECT-WITH_ME-2563EB?style=for-the-badge&labelColor=020617" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vasifkhorajiya&style=for-the-badge&color=10B981&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
 
@@ -24,33 +24,35 @@
 
 ## 🟢 ABOUT ME
 
-### 👨‍💻 Vasif Khorajiya
+### 👨‍💻 Hi, I'm Vasif Khorajiya!
 
-*Aspiring Data Analyst | BCA Student | Technology Enthusiast*
+**BCA Student • Aspiring Data Analyst • Technology Enthusiast**
+
+*Turning curiosity into code, data into insights, and ideas into projects.*
 
 </div>
 
-- 📍 **Location:** Wankaner, Gujarat, India
-- 🎓 **Education:** BCA — Darshan University
-- 📊 **Career Goal:** Aspiring Data Analyst
-- 🐍 **Focus:** Python, SQL, Pandas, NumPy
-- 📈 **Analytics:** Excel, Power BI, Tableau
-- 💻 **Development:** Web and mobile applications
-- 🌱 **Mindset:** Learn continuously, build consistently
-
-> 💡 I enjoy exploring data, solving practical problems, and creating projects that turn ideas into useful solutions.
+- 📍 **Based in:** Wankaner, Gujarat, India
+- 🎓 **Studying:** BCA at Darshan University
+- 🎯 **Career goal:** Aspiring Data Analyst
+- 🐍 **Exploring:** Python, SQL, Pandas and NumPy
+- 📊 **Interested in:** Data analysis and visualization
+- 💻 **Building with:** Web and mobile technologies
+- 🌱 **Philosophy:** Learn something new. Build something useful.
 
 ---
 
 <div align="center">
 
-## 🧠 TECH STACK
+## 💎 MY TECH STACK
 
-### 💻 Programming Languages
+*Tools and technologies I'm learning and using in my projects.*
 
-<img src="https://skillicons.dev/icons?i=python,java,js,dart,html,css&theme=dark" alt="Programming language icons"/>
+### 🐍 Programming Languages
 
-### 📊 Data Analytics & Visualization
+<img src="https://skillicons.dev/icons?i=python,java,js,dart,html,css&theme=dark" alt="Programming languages"/>
+
+### 📊 Data Analytics
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -60,11 +62,11 @@
 
 ### 🌐 Web & Mobile Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter&theme=dark" alt="Web and mobile development icons"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter&theme=dark" alt="Web and mobile technologies"/>
 
-### 🗄️ Databases & Developer Tools
+### 🗄️ Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode&theme=dark" alt="Database and developer tool icons"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode&theme=dark" alt="Databases and tools"/>
 
 </div>
 
@@ -72,9 +74,9 @@
 
 <div align="center">
 
-## 🚀 FEATURED PROJECTS
+## 🚀 PROJECT SHOWCASE
 
-*Explore what I've been building.*
+*Every project is an opportunity to learn, create, and improve.*
 
 </div>
 
@@ -84,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🍽️_PROJECT_01-RESTAURANT-059669?style=for-the-badge" alt="Restaurant project badge"/>
+<img src="https://img.shields.io/badge/🍽️_01-RESTAURANT_SYSTEM-059669?style=for-the-badge" alt="Restaurant project"/>
 
 ### Spice Route
 
@@ -92,15 +94,17 @@
 
 </div>
 
-A restaurant management project built with a modern web technology stack.
+A restaurant management project built using a modern web development stack.
 
-**🛠️ Technologies**
+**🧰 Built with**
 
 `React.js` `Node.js` `Express.js` `PostgreSQL`
 
+**✨ Focus:** Full-stack application development.
+
 <div align="center">
 
-<a href="https://github.com/vasifkhorajiya/Restaurant-Management-System"><img src="https://img.shields.io/badge/VIEW_PROJECT-059669?style=for-the-badge&logo=github&logoColor=white" alt="View Spice Route project"/></a>
+<a href="https://github.com/vasifkhorajiya/Restaurant-Management-System"><img src="https://img.shields.io/badge/↗_EXPLORE_PROJECT-059669?style=for-the-badge&logo=github&logoColor=white" alt="Explore Spice Route"/></a>
 
 </div>
 
@@ -109,7 +113,7 @@ A restaurant management project built with a modern web technology stack.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🇮🇳_PROJECT_02-HERITAGE-7C3AED?style=for-the-badge" alt="Heritage project badge"/>
+<img src="https://img.shields.io/badge/🇮🇳_02-BHARAT_HERITAGE-7C3AED?style=for-the-badge" alt="Bharat Heritage project"/>
 
 ### Bharat Heritage
 
@@ -117,15 +121,17 @@ A restaurant management project built with a modern web technology stack.
 
 </div>
 
-A frontend project showcasing India's cultural heritage.
+A frontend project highlighting India's cultural heritage through web technologies.
 
-**🛠️ Technologies**
+**🧰 Built with**
 
 `HTML` `CSS` `JavaScript`
 
+**✨ Focus:** Frontend design and web fundamentals.
+
 <div align="center">
 
-<a href="https://github.com/vasifkhorajiya/Bharat-Heritage"><img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Bharat Heritage project"/></a>
+<a href="https://github.com/vasifkhorajiya/Bharat-Heritage"><img src="https://img.shields.io/badge/↗_EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Bharat Heritage"/></a>
 
 </div>
 
@@ -136,7 +142,7 @@ A frontend project showcasing India's cultural heritage.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/📚_PROJECT_03-LIBRARY-2563EB?style=for-the-badge" alt="Library project badge"/>
+<img src="https://img.shields.io/badge/📚_03-LIBRARY_SYSTEM-2563EB?style=for-the-badge" alt="Library Management project"/>
 
 ### Library Management
 
@@ -144,15 +150,17 @@ A frontend project showcasing India's cultural heritage.
 
 </div>
 
-A Python-based project using CSV for data storage.
+A Python-based project using CSV files to manage stored data.
 
-**🛠️ Technologies**
+**🧰 Built with**
 
 `Python` `CSV`
 
+**✨ Focus:** Programming logic and data handling.
+
 <div align="center">
 
-<a href="https://github.com/vasifkhorajiya/Library-Management-System"><img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Library Management project"/></a>
+<a href="https://github.com/vasifkhorajiya/Library-Management-System"><img src="https://img.shields.io/badge/↗_EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Library Management"/></a>
 
 </div>
 
@@ -161,7 +169,7 @@ A Python-based project using CSV for data storage.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/📱_PROJECT_04-MOBILE-DB2777?style=for-the-badge" alt="Mobile project badge"/>
+<img src="https://img.shields.io/badge/📱_04-USER_MANAGEMENT-DB2777?style=for-the-badge" alt="User Management project"/>
 
 ### User Management System
 
@@ -169,15 +177,17 @@ A Python-based project using CSV for data storage.
 
 </div>
 
-A mobile application project built with Flutter and SQLite.
+A mobile application project developed with Flutter and SQLite.
 
-**🛠️ Technologies**
+**🧰 Built with**
 
 `Flutter` `Dart` `SQLite`
 
+**✨ Focus:** Mobile development and local data storage.
+
 <div align="center">
 
-<a href="https://github.com/vasifkhorajiya/User_Management_System"><img src="https://img.shields.io/badge/VIEW_PROJECT-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="View User Management project"/></a>
+<a href="https://github.com/vasifkhorajiya/User_Management_System"><img src="https://img.shields.io/badge/↗_EXPLORE_PROJECT-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Explore User Management"/></a>
 
 </div>
 
@@ -187,7 +197,7 @@ A mobile application project built with Flutter and SQLite.
 
 <div align="center">
 
-<a href="https://github.com/vasifkhorajiya?tab=repositories"><img src="https://img.shields.io/badge/✨_DISCOVER_ALL_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
+<a href="https://github.com/vasifkhorajiya?tab=repositories"><img src="https://img.shields.io/badge/🌟_VIEW_ALL_MY_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/></a>
 
 </div>
 
@@ -195,62 +205,133 @@ A mobile application project built with Flutter and SQLite.
 
 <div align="center">
 
-## 📈 GITHUB ANALYTICS
+## 🧭 MY LEARNING ROADMAP
 
-<a href="https://github.com/vasifkhorajiya">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vasifkhorajiya&show_icons=true&hide_border=true&rank_icon=github&bg_color=020617&title_color=34D399&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/vasifkhorajiya">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasifkhorajiya&layout=compact&hide_border=true&bg_color=020617&title_color=34D399&text_color=E2E8F0" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=vasifkhorajiya&theme=transparent&hide_border=true&ring=34D399&fire=A78BFA&currStreakLabel=34D399&sideLabels=E2E8F0&dates=94A3B8" width="95%" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasifkhorajiya&bg_color=020617&color=34D399&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+*My focus areas as I continue growing as a developer and aspiring data analyst.*
 
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Analytics
+
+- 🐍 Python for data analysis
+- 🧮 Pandas and NumPy
+- 🗃️ SQL and databases
+- 📈 Excel and data visualization
+- 📊 Exploring Power BI and Tableau
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Software Development
+
+- 🌐 Frontend development
+- ⚙️ Backend fundamentals
+- 🗄️ Database integration
+- 📱 Flutter app development
+- 🛠️ Git and GitHub workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🎓 EDUCATION
+## 🎓 EDUCATION JOURNEY
 
 </div>
 
-| 🎯 Qualification | 🏫 Institution | 📅 Year |
-|:---|:---|:---:|
-| 🎓 BCA | Darshan University | 2024–2027 |
-| 📘 12th Commerce | The Modern School, Wankaner | 2023–2024 |
-| 📗 10th | GNMS School, Wankaner | 2021–2022 |
+<table>
+<tr>
+<td width="64">
+
+🎓
+
+</td>
+<td>
+
+**Bachelor of Computer Applications (BCA)**
+
+Darshan University
+
+</td>
+<td align="center">
+
+`2024–2027`
+
+</td>
+</tr>
+<tr>
+<td>
+
+📘
+
+</td>
+<td>
+
+**12th Commerce**
+
+The Modern School, Wankaner
+
+</td>
+<td align="center">
+
+`2023–2024`
+
+</td>
+</tr>
+<tr>
+<td>
+
+📗
+
+</td>
+<td>
+
+**10th Standard**
+
+GNMS School, Wankaner
+
+</td>
+<td align="center">
+
+`2021–2022`
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🌐 CONNECT WITH ME
+## 🤝 LET'S CONNECT
 
-*Let's connect, share ideas, and learn together!*
+### 💬 Have a project idea or want to connect?
 
-<a href="https://github.com/vasifkhorajiya"><img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<a href="https://www.linkedin.com/in/vasifkhorajiya/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
-<a href="mailto:vasifkhorajiya05@gmail.com"><img src="https://img.shields.io/badge/Gmail-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vasif"/></a>
-<a href="https://www.instagram.com/mr_vasif_06/"><img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile"/></a>
+*I'm always interested in learning, sharing ideas, and exploring technology.*
+
+<a href="https://github.com/vasifkhorajiya"><img src="https://img.shields.io/badge/GitHub-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/vasifkhorajiya/"><img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="mailto:vasifkhorajiya05@gmail.com"><img src="https://img.shields.io/badge/Gmail-SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.instagram.com/mr_vasif_06/"><img src="https://img.shields.io/badge/Instagram-FOLLOW_ME-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio"><img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-059669?style=for-the-badge" alt="Explore portfolio"/></a>
+<a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio"><img src="https://img.shields.io/badge/🚀_DISCOVER_MY_PORTFOLIO-059669?style=for-the-badge" alt="Discover portfolio"/></a>
 
 <br/><br/>
 
 ### 💚 THANK YOU FOR VISITING!
 
-**“Turning curiosity into skills, and skills into solutions.”**
+**“Dream big. Keep learning. Build things that matter.”**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020617,40:064e3b,75:6d28d9,100:020617&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:020617,30:064e3b,65:6d28d9,100:020617&section=footer" width="100%" alt="Animated footer"/>
 
 </div>
