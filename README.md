@@ -1,28 +1,28 @@
 <div align="center">
 
 <a href="https://github.com/vasifkhorajiya">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:064e3b,60:6d28d9,100:020617&text=VASIF%20KHORAJIYA&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=ASPIRING%20DATA%20ANALYST%20%7C%20DEVELOPER&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="Vasif Khorajiya animated banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:064e3b,60:6d28d9,100:020617&text=VASIF%20KHORAJIYA&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=14&descAlignY=56&animation=fadeIn" width="100%" alt="Vasif Khorajiya premium animated banner"/>
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=650&color=34D399&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+WELCOME+TO+MY+DIGITAL+WORLD;%F0%9F%93%8A+ASPIRING+DATA+ANALYST;%F0%9F%90%8D+PYTHON+%7C+SQL+%7C+DATA+INSIGHTS;%F0%9F%92%BB+DEVELOPER+%7C+CREATIVE+THINKER;%E2%9C%A8+LEARN.+BUILD.+GROW." alt="Animated introduction"/>
 
 <br/><br/>
 
-<a href="https://github.com/vasifkhorajiya?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-059669?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Explore projects"/></a>
+<a href="https://github.com/vasifkhorajiya?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-059669?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Explore projects"/></a>
 <a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio"><img src="https://img.shields.io/badge/MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/vasifkhorajiya/"><img src="https://img.shields.io/badge/LET'S_CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vasifkhorajiya&style=for-the-badge&color=10B981&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?username=vasifkhorajiya&style=for-the-badge&color=10B981&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 🟢 About Me
 
-## 🟢 ABOUT ME
+<div align="center">
 
 ### Hey, I'm Vasif Khorajiya! 👋
 
@@ -32,25 +32,41 @@
 
 </div>
 
+I'm passionate about data analytics, programming, and building practical digital solutions. I enjoy exploring technology, developing projects, and continuously improving my technical and analytical skills.
+
 - 📍 **Location:** Wankaner, Morbi, Gujarat, India
 - 🎓 **Education:** BCA at Darshan University
-- 🎯 **Career Goal:** Grow into a skilled Data Analyst
-- 🐍 **Exploring:** Python, SQL, Pandas and NumPy
-- 📊 **Interested In:** Data analytics and visualization
-- 💻 **Building With:** Web and mobile technologies
-- 🌱 **Mindset:** Learn continuously, build practically, improve consistently
+- 🎯 **Career Goal:** Aspiring Data Analyst
+- 🐍 **Learning:** Python, SQL, Pandas and NumPy
+- 📊 **Interests:** Data analysis, visualization and reporting
+- 💻 **Development:** Web and mobile applications
+- 🌱 **Mindset:** Learn continuously, build practically, grow consistently
 
-I enjoy exploring technology, developing useful applications, and learning how data can help people understand problems and make better decisions.
+<details>
+<summary><b>💡 My Developer Mindset</b></summary>
+
+```python
+class VasifKhorajiya:
+    role = "Aspiring Data Analyst"
+    mindset = ["Curiosity", "Consistency", "Growth"]
+    interests = ["Data", "Technology", "Problem Solving"]
+
+    def mission(self):
+        return "Turn ideas into useful solutions."
+
+me = VasifKhorajiya()
+print(me.mission())
+```
+
+</details>
 
 ---
 
+## 💎 Technology Stack
+
 <div align="center">
 
-## 💎 MY TECH STACK
-
-*Technologies I use in projects and areas I'm learning.*
-
-### 🐍 Programming & Web Technologies
+### 🐍 Programming & Web
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Programming and web technologies"/>
 
@@ -74,11 +90,11 @@ I enjoy exploring technology, developing useful applications, and learning how d
 
 ---
 
+## 🚀 Featured Projects
+
 <div align="center">
 
-## 🚀 PROJECT SHOWCASE
-
-*Practical projects. Real learning. Continuous improvement.*
+*Explore the projects I've built while learning and developing my skills.*
 
 </div>
 
@@ -88,7 +104,7 @@ I enjoy exploring technology, developing useful applications, and learning how d
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-RESTAURANT_SYSTEM-059669?style=for-the-badge" alt="Restaurant project"/>
+<img src="https://img.shields.io/badge/PROJECT_01-059669?style=for-the-badge" alt="Project 1"/>
 
 ### 🍽️ Spice Route
 
@@ -106,7 +122,7 @@ A restaurant management project built with a full-stack web development approach
 
 <div align="center">
 
-<a href="https://github.com/vasifkhorajiya/Restaurant-Management-System"><img src="https://img.shields.io/badge/VIEW_PROJECT-059669?style=for-the-badge&logo=github&logoColor=white" alt="View Spice Route project"/></a>
+<a href="https://github.com/vasifkhorajiya/Restaurant-Management-System"><img src="https://img.shields.io/badge/VIEW_SOURCE-059669?style=for-the-badge&logo=github&logoColor=white" alt="View Spice Route source"/></a>
 
 </div>
 
@@ -115,7 +131,7 @@ A restaurant management project built with a full-stack web development approach
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/02-BHARAT_HERITAGE-7C3AED?style=for-the-badge" alt="Bharat Heritage project"/>
+<img src="https://img.shields.io/badge/PROJECT_02-7C3AED?style=for-the-badge" alt="Project 2"/>
 
 ### 🇮🇳 Bharat Heritage
 
@@ -123,17 +139,17 @@ A restaurant management project built with a full-stack web development approach
 
 </div>
 
-A frontend project showcasing Indian heritage through core web technologies.
+A frontend project presenting Indian heritage using core web technologies.
 
 **Tech stack**
 
 `HTML` `CSS` `JavaScript`
 
-**Focus:** Web fundamentals and frontend design.
+**Focus:** Frontend development and web fundamentals.
 
 <div align="center">
 
-<a href="https://github.com/vasifkhorajiya/Bharat-Heritage"><img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Bharat Heritage project"/></a>
+<a href="https://github.com/vasifkhorajiya/Bharat-Heritage"><img src="https://img.shields.io/badge/VIEW_SOURCE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Bharat Heritage source"/></a>
 
 </div>
 
@@ -144,7 +160,7 @@ A frontend project showcasing Indian heritage through core web technologies.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/03-LIBRARY_SYSTEM-2563EB?style=for-the-badge" alt="Library project"/>
+<img src="https://img.shields.io/badge/PROJECT_03-2563EB?style=for-the-badge" alt="Project 3"/>
 
 ### 📚 Library Management
 
@@ -152,17 +168,17 @@ A frontend project showcasing Indian heritage through core web technologies.
 
 </div>
 
-A library management project using Python and CSV files for data storage and handling.
+A library management project using Python and CSV files for data storage and record handling.
 
 **Tech stack**
 
 `Python` `CSV`
 
-**Focus:** Programming logic and record management.
+**Focus:** Programming logic and file-based data handling.
 
 <div align="center">
 
-<a href="https://github.com/vasifkhorajiya/Library-Management-System"><img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Library project"/></a>
+<a href="https://github.com/vasifkhorajiya/Library-Management-System"><img src="https://img.shields.io/badge/VIEW_SOURCE-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Library Management source"/></a>
 
 </div>
 
@@ -171,7 +187,7 @@ A library management project using Python and CSV files for data storage and han
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/04-USER_MANAGEMENT-DB2777?style=for-the-badge" alt="User Management project"/>
+<img src="https://img.shields.io/badge/PROJECT_04-DB2777?style=for-the-badge" alt="Project 4"/>
 
 ### 📱 User Management System
 
@@ -185,11 +201,11 @@ A mobile application project exploring Flutter development and local database st
 
 `Flutter` `Dart` `SQLite`
 
-**Focus:** Mobile UI and data persistence.
+**Focus:** Mobile interfaces and local data persistence.
 
 <div align="center">
 
-<a href="https://github.com/vasifkhorajiya/User_Management_System"><img src="https://img.shields.io/badge/VIEW_PROJECT-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="View User Management project"/></a>
+<a href="https://github.com/vasifkhorajiya/User_Management_System"><img src="https://img.shields.io/badge/VIEW_SOURCE-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="View User Management source"/></a>
 
 </div>
 
@@ -205,11 +221,7 @@ A mobile application project exploring Flutter development and local database st
 
 ---
 
-<div align="center">
-
-## 🧭 MY LEARNING ROADMAP
-
-</div>
+## 🧭 Learning Roadmap
 
 <table>
 <tr>
@@ -218,10 +230,10 @@ A mobile application project exploring Flutter development and local database st
 ### 📊 Data Analytics
 
 - Python for data analysis
-- Pandas and NumPy fundamentals
+- Pandas and NumPy
 - SQL queries and joins
 - Excel and reporting
-- Power BI and data visualization
+- Power BI and visualization
 - Statistics and interpreting trends
 
 </td>
@@ -231,10 +243,10 @@ A mobile application project exploring Flutter development and local database st
 
 - HTML, CSS and JavaScript
 - React and Node.js fundamentals
-- APIs and database integration
+- API and database integration
 - Flutter and Dart
 - Git and GitHub workflows
-- Building and documenting projects
+- Project documentation
 
 </td>
 </tr>
@@ -242,15 +254,11 @@ A mobile application project exploring Flutter development and local database st
 
 ---
 
-<div align="center">
-
-## 🎓 EDUCATION JOURNEY
-
-</div>
+## 🎓 Education
 
 <table>
 <tr>
-<td width="56">🎓</td>
+<td width="55">🎓</td>
 <td>
 
 **Bachelor of Computer Applications (BCA)**
@@ -286,9 +294,9 @@ GNMS School, Wankaner
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-## 🤝 LET'S CONNECT
+<div align="center">
 
 ### Have a project idea or want to connect?
 
@@ -310,8 +318,10 @@ GNMS School, Wankaner
 
 ### 💚 THANK YOU FOR VISITING!
 
-**Learn. Build. Analyze. Innovate.**
+**LEARN · BUILD · ANALYZE · INNOVATE**
 
+<a href="https://github.com/vasifkhorajiya">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020617,30:064e3b,65:6d28d9,100:020617&section=footer" width="100%" alt="Emerald and purple footer"/>
+</a>
 
 </div>
