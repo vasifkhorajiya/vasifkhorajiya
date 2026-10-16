@@ -88,12 +88,6 @@ My goal is to build a strong foundation in data analytics, develop hands-on expe
 
 <br/><br/>
 
-### 🛠️ Technologies
-
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,react,git,github&perline=4" alt="Technology icons"/>
-
-<br/><br/>
-
 ### 💡 My Mindset
 
 *Stay curious. Keep learning. Build with purpose.*
