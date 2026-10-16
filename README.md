@@ -9,7 +9,9 @@
 <br/><br/>
 
 <a href="https://github.com/vasifkhorajiya?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-059669?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-<a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://vasifkhorajiya.github.io/VasifKhorajiya-Portfolio/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/vasifkhorajiya/"><img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
@@ -391,7 +393,9 @@ GNMS School, Wankaner
 
 <br/><br/>
 
-<a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://vasifkhorajiya.github.io/VasifKhorajiya-Portfolio/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
+</a>
 
 <br/><br/>
 
