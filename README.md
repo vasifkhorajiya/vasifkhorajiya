@@ -74,7 +74,7 @@ I value consistency, hands-on learning, and the opportunity to turn knowledge in
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LOCATION-Gujarat%2C%20India-0891B2?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/LOCATION-Wankaner%2C%20Morbi%2C%20Gujarat%2C%20India-0891B2?style=flat-square" alt="Location: Wankaner, Morbi, Gujarat, India"/>
 
 <br/><br/>
 
