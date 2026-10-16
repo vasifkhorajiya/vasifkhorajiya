@@ -1,146 +1,149 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:064e3b,70:059669,100:34d399&text=VASIF%20KHORAJIYA&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=DATA%20ANALYTICS%20%E2%80%A2%20SOFTWARE%20DEVELOPMENT&descSize=15&descAlignY=56&animation=fadeIn" width="100%" alt="Vasif Khorajiya premium hero banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:050816,25:17113B,55:075E54,80:00C896,100:8B5CF6&text=VASIF%20KHORAJIYA&fontSize=48&fontColor=FFFFFF&fontAlignY=34&desc=DATA%20ANALYST%20%7C%20DEVELOPER%20%7C%20BUILDER&descSize=17&descAlignY=55&animation=fadeIn" width="100%" alt="Ultra premium futuristic profile banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=34D399&center=true&vCenter=true&width=800&height=50&lines=Turning+Data+Into+Meaningful+Insights;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Building+Modern+Digital+Experiences;React+%7C+Node.js+%7C+Flutter;Curious+Mind.+Builder.+Future+Data+Analyst." alt="Animated professional tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=650&color=34D399&center=true&vCenter=true&width=820&height=60&lines=HELLO%2C+WORLD!+I'M+VASIF+KHORAJIYA;DATA+%7C+CODE+%7C+CREATIVITY;PYTHON+%E2%80%A2+SQL+%E2%80%A2+POWER+BI;REACT+%E2%80%A2+NODE.JS+%E2%80%A2+FLUTTER;BUILDING+TODAY.+INNOVATING+TOMORROW." alt="Animated developer introduction"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio">
-    <img src="https://img.shields.io/badge/%E2%9C%A8%20EXPLORE%20MY%20PORTFOLIO-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Explore my portfolio"/>
+    <img src="https://img.shields.io/badge/%E2%9C%A6%20EXPLORE%20MY%20PORTFOLIO-00C896?style=for-the-badge&logo=github&logoColor=050816" alt="Explore portfolio"/>
   </a>
   <a href="https://github.com/vasifkhorajiya?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0F172A?style=for-the-badge&logo=github&logoColor=34D399" alt="Explore projects"/>
+    <img src="https://img.shields.io/badge/%E2%9A%A1%20PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vasifkhorajiya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vasifkhorajiya05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Connect-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.instagram.com/mr_vasif_06/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vasifkhorajiya&label=PROFILE+VIEWS&color=10B981&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/vasifkhorajiya?label=FOLLOWERS&style=for-the-badge&color=059669&logo=github" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=vasifkhorajiya&style=for-the-badge&color=00C896&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/vasifkhorajiya?style=for-the-badge&color=8B5CF6&label=GITHUB+FOLLOWERS&logo=github" alt="GitHub followers"/>
 </p>
 
 <p align="center">
-  <b>📍 Gujarat, India &nbsp;·&nbsp; 🎓 BCA Student &nbsp;·&nbsp; 📊 Aspiring Data Analyst</b>
+  <b>📍 GUJARAT, INDIA</b> &nbsp; • &nbsp; <b>🎓 BCA STUDENT</b> &nbsp; • &nbsp; <b>📊 ASPIRING DATA ANALYST</b>
 </p>
 
 ---
 
-## ◈ 01 — The Introduction
+<h2 align="center">◈ WHO AM I?</h2>
 
-<img align="right" width="155" src="https://skillicons.dev/icons?i=python,react,nodejs,flutter&perline=2" alt="Core technologies"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/MINDSET-Curious-00C896?style=flat-square" alt="Curious mindset"/>
+  <img src="https://img.shields.io/badge/APPROACH-Project--Driven-8B5CF6?style=flat-square" alt="Project driven"/>
+  <img src="https://img.shields.io/badge/FOCUS-Continuous_Growth-0EA5E9?style=flat-square" alt="Continuous growth"/>
+</p>
 
-### Hey, I'm Vasif! 👋
+### Hey there! I'm Vasif Khorajiya 👋
 
-I'm a BCA student at **Darshan University**, interested in the intersection of data, technology, and practical problem-solving.
+I'm a **BCA student at Darshan University** with a passion for data analytics, software development, and building practical digital solutions.
 
-I enjoy learning how to transform raw information into useful insights while building applications that solve real-world problems.
+I love exploring how data tells stories, how code solves problems, and how ideas can become useful applications.
 
-- 🔭 **Focus:** Data Analytics & Software Development
-- 🌱 **Learning:** Python, SQL, data analysis and visualization
-- 📊 **Exploring:** Power BI, Tableau, Pandas and NumPy
-- 💻 **Building with:** React, Node.js, Flutter and databases
-- 🎓 **Education:** BCA, Darshan University (2024–2027)
-- 🎯 **Mission:** Build meaningful projects and grow through hands-on experience
+- 🎓 **Education:** BCA — Darshan University (2024–2027)
+- 📊 **Career Direction:** Data Analytics & Business Intelligence
+- 🐍 **Programming:** Python, JavaScript, SQL
+- 📈 **Analytics:** Excel, Pandas, NumPy, Power BI, Tableau
+- 🌐 **Web:** HTML, CSS, React, Node.js, Express.js
+- 📱 **Apps:** Flutter, Dart, SQLite
+- 🚀 **Goal:** Create meaningful projects and continuously strengthen my skills.
 
-<br clear="right"/>
-
-> *I believe in learning by building, solving problems with curiosity, and improving one project at a time.*
+> *"Think beyond the data. Build beyond the idea. Learn beyond the limits."*
 
 ---
 
-## ◈ 02 — My Technology Universe
+<h2 align="center">◈ MY DIGITAL UNIVERSE</h2>
 
-<p align="center"><b>DATA ANALYTICS & BUSINESS INTELLIGENCE</b></p>
+### 🟢 Data Analytics & Intelligence
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" alt="Python"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="MySQL"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" alt="Excel"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI"/>
-  <br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
 </p>
 
-<p align="center"><b>WEB DEVELOPMENT</b></p>
+### 🟣 Full-Stack Web Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark&perline=6" alt="Web development stack"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark&perline=6" alt="Web development technologies"/>
 </p>
 
-<p align="center"><b>APP DEVELOPMENT & DATABASES</b></p>
+### 🔵 Mobile App Development & Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite,postgres,mysql&theme=dark&perline=5" alt="App development and database technologies"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite,postgres,mysql&theme=dark&perline=5" alt="App and database technologies"/>
 </p>
 
-<p align="center"><b>DEVELOPER TOOLKIT</b></p>
+### ⚙️ Tools & Workflow
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter&theme=dark&perline=5" alt="Developer tools"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter&theme=dark&perline=5" alt="Development tools"/>
 </p>
 
 ---
 
-## ◈ 03 — Selected Projects
+<h2 align="center">◈ THE PROJECT SHOWCASE</h2>
 
 <p align="center">
-  <i>Practical projects. Real learning. Continuous improvement.</i>
+  <i>Ideas transformed into code. Learning transformed into projects.</i>
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://img.shields.io/badge/FULL--STACK-WEB_APP-059669?style=for-the-badge" alt="Full-stack web app"/>
+        <img src="https://img.shields.io/badge/01-FULL--STACK-00C896?style=for-the-badge" alt="Full-stack project"/>
       </p>
-      <h3 align="center">🍽️ Spice Route</h3>
-      <p>A restaurant management system built around web technologies and a PostgreSQL database.</p>
-      <p><b>Stack</b></p>
-      <p>
+      <h3 align="center">🍽️ SPICE ROUTE</h3>
+      <p align="center">Restaurant Management System</p>
+      A web application project focused on restaurant operations, using a modern JavaScript stack and PostgreSQL.
+      <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       </p>
       <p align="center">
         <a href="https://github.com/vasifkhorajiya/Restaurant-Management-System">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=34D399" alt="View Spice Route"/>
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00C896?style=for-the-badge&logo=github&logoColor=050816" alt="Explore Spice Route"/>
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://img.shields.io/badge/FRONT--END-WEB_PROJECT-059669?style=for-the-badge" alt="Front-end web project"/>
+        <img src="https://img.shields.io/badge/02-WEB_EXPERIENCE-8B5CF6?style=for-the-badge" alt="Web project"/>
       </p>
-      <h3 align="center">🇮🇳 Bharat Heritage</h3>
-      <p>A website project presenting Indian cultural heritage using core web technologies.</p>
-      <p><b>Stack</b></p>
-      <p>
+      <h3 align="center">🇮🇳 BHARAT HERITAGE</h3>
+      <p align="center">Indian Cultural Heritage Website</p>
+      A website project presenting Indian heritage through a front-end web experience.
+      <p align="center">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
       <p align="center">
         <a href="https://github.com/vasifkhorajiya/Bharat-Heritage">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=34D399" alt="View Bharat Heritage"/>
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Bharat Heritage"/>
         </a>
       </p>
     </td>
@@ -148,36 +151,36 @@ I enjoy learning how to transform raw information into useful insights while bui
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://img.shields.io/badge/PYTHON-DATA_HANDLING-059669?style=for-the-badge" alt="Python project"/>
+        <img src="https://img.shields.io/badge/03-PYTHON_PROJECT-0EA5E9?style=for-the-badge" alt="Python project"/>
       </p>
-      <h3 align="center">📚 Library Management</h3>
-      <p>A Python project for managing library records using CSV-based file handling.</p>
-      <p><b>Stack</b></p>
-      <p>
+      <h3 align="center">📚 LIBRARY MANAGEMENT</h3>
+      <p align="center">Python & CSV Application</p>
+      A project for organizing library records and practicing file handling with Python.
+      <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/CSV-64748B?style=flat-square" alt="CSV"/>
       </p>
       <p align="center">
         <a href="https://github.com/vasifkhorajiya/Library-Management-System">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=34D399" alt="View Library Management System"/>
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore Library Management"/>
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://img.shields.io/badge/CROSS--PLATFORM-MOBILE_APP-059669?style=for-the-badge" alt="Cross-platform app"/>
+        <img src="https://img.shields.io/badge/04-MOBILE_DEVELOPMENT-F59E0B?style=for-the-badge" alt="Mobile project"/>
       </p>
-      <h3 align="center">📱 User Management</h3>
-      <p>A cross-platform user management project using Flutter and a local SQLite database.</p>
-      <p><b>Stack</b></p>
-      <p>
+      <h3 align="center">📱 USER MANAGEMENT</h3>
+      <p align="center">Flutter & SQLite Application</p>
+      A cross-platform application project exploring user management and local database storage.
+      <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
       </p>
       <p align="center">
         <a href="https://github.com/vasifkhorajiya/User_Management_System">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=34D399" alt="View User Management System"/>
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECT-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Explore User Management"/>
         </a>
       </p>
     </td>
@@ -185,107 +188,93 @@ I enjoy learning how to transform raw information into useful insights while bui
 </table>
 
 <p align="center">
-  <a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_COMPLETE_PORTFOLIO-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Explore my complete portfolio"/>
+  <a href="https://github.com/vasifkhorajiya?tab=repositories">
+    <img src="https://img.shields.io/badge/%E2%9C%A6%20DISCOVER%20ALL%20MY%20REPOSITORIES-17113B?style=for-the-badge&logo=github&logoColor=34D399" alt="Discover all repositories"/>
   </a>
 </p>
 
 ---
 
-## ◈ 04 — GitHub Performance Dashboard
+<h2 align="center">◈ GITHUB COMMAND CENTER</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vasifkhorajiya&show_icons=true&theme=transparent&hide_border=true&title_color=34D399&icon_color=34D399&text_color=94A3B8&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasifkhorajiya&layout=compact&theme=transparent&hide_border=true&title_color=34D399&text_color=94A3B8" alt="Most used languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vasifkhorajiya&show_icons=true&hide_border=true&bg_color=050816&title_color=34D399&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github&include_all_commits=true" alt="GitHub overview"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasifkhorajiya&layout=compact&hide_border=true&bg_color=050816&title_color=8B5CF6&text_color=E2E8F0" alt="Top programming languages"/>
 </p>
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=vasifkhorajiya&theme=transparent&hide_border=true&ring=34D399&fire=F59E0B&currStreakLabel=34D399&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="GitHub contribution streak"/>
+  <img width="85%" src="https://streak-stats.demolab.com?user=vasifkhorajiya&hide_border=true&background=050816&ring=8B5CF6&fire=F59E0B&currStreakLabel=34D399&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=34D399&dates=64748B" alt="Contribution streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasifkhorajiya&bg_color=00000000&color=94A3B8&line=10B981&point=34D399&area=true&area_color=059669&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY" width="100%" alt="GitHub contribution journey"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasifkhorajiya&bg_color=050816&color=94A3B8&line=00C896&point=8B5CF6&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="Contribution activity graph"/>
 </p>
 
 ---
 
-## ◈ 05 — Education & Growth
+<h2 align="center">◈ EDUCATION & CAREER ROADMAP</h2>
 
 <table>
   <tr>
     <td align="center" width="33%">
       <h3>🎓 BCA</h3>
-      <p>Darshan University</p>
-      <p><sub>2024–2027</sub></p>
+      <p><b>Darshan University</b></p>
+      <img src="https://img.shields.io/badge/2024--2027-In_Progress-00C896?style=flat-square" alt="BCA period"/>
     </td>
     <td align="center" width="33%">
       <h3>📘 12th Commerce</h3>
-      <p>The Modern School</p>
-      <p><sub>2023–2024</sub></p>
+      <p><b>The Modern School</b></p>
+      <img src="https://img.shields.io/badge/2023--2024-Completed-8B5CF6?style=flat-square" alt="12th period"/>
     </td>
     <td align="center" width="33%">
       <h3>📖 10th</h3>
-      <p>GNMS School</p>
-      <p><sub>2021–2022</sub></p>
+      <p><b>GNMS School</b></p>
+      <img src="https://img.shields.io/badge/2021--2022-Completed-0EA5E9?style=flat-square" alt="10th period"/>
     </td>
   </tr>
 </table>
 
-### My Learning Roadmap
+### 🎯 Next-Level Goals
 
-- [ ] Strengthen Python programming and SQL queries.
-- [ ] Practice data cleaning and exploratory data analysis.
-- [ ] Build interactive Power BI dashboards.
-- [ ] Publish end-to-end analytics projects.
-- [ ] Improve web and cross-platform application development.
-- [ ] Document projects with clear explanations and outcomes.
-
----
-
-## ◈ 06 — Beyond the Code
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MINDSET-Always_Learning-064E3B?style=for-the-badge" alt="Always learning"/>
-  <img src="https://img.shields.io/badge/APPROACH-Project--Driven-065F46?style=for-the-badge" alt="Project driven"/>
-  <img src="https://img.shields.io/badge/GOAL-Meaningful_Impact-047857?style=for-the-badge" alt="Meaningful impact"/>
-</p>
-
-I am working toward a future where I can combine analytical thinking, data visualization, and software development to create useful solutions.
-
-Every project is an opportunity to learn something new, improve my skills, and share what I build.
+- [ ] Master Python fundamentals and advanced SQL queries.
+- [ ] Practice data cleaning, analysis, and exploratory data analysis.
+- [ ] Create insightful Power BI dashboards.
+- [ ] Publish end-to-end data analytics projects.
+- [ ] Strengthen full-stack and cross-platform development.
+- [ ] Build clear, well-documented project repositories.
 
 ---
 
-## ◈ 07 — Let's Build Something Meaningful
+<h2 align="center">◈ CONNECT • COLLABORATE • CREATE</h2>
 
 <p align="center">
-  <b>Have an idea, a project, or an opportunity to collaborate?</b>
+  <b>Every great project starts with a conversation.</b>
   <br/>
-  I'd love to connect and learn from the developer community.
+  Let's connect, exchange ideas, and keep learning together.
 </p>
 
 <p align="center">
   <a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio">
-    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Visit portfolio"/>
+    <img src="https://img.shields.io/badge/01%20%E2%80%94%20MY%20PORTFOLIO-00C896?style=for-the-badge&logo=github&logoColor=050816" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/vasifkhorajiya/">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/02%20%E2%80%94%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vasifkhorajiya05@gmail.com">
-    <img src="https://img.shields.io/badge/LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+    <img src="https://img.shields.io/badge/03%20%E2%80%94%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <i>"Think analytically. Build creatively. Grow continuously."</i>
+  <i>"Dream big. Think clearly. Build relentlessly."</i>
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my GitHub profile! ⭐</b>
+  <b>THANK YOU FOR VISITING MY DIGITAL SPACE ✨</b>
   <br/>
-  <sub>Designed with curiosity, built with code, and powered by continuous learning.</sub>
+  <sub>Keep exploring. Keep creating. Keep growing.</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:34d399,40:059669,75:064e3b,100:020617" width="100%" alt="Emerald premium footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:8B5CF6,35:075E54,70:00C896,100:050816" width="100%" alt="Ultra premium gradient footer"/>
 </p>
