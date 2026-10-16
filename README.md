@@ -1,19 +1,16 @@
 <div align="center">
 
 <a href="https://github.com/vasifkhorajiya">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:064e3b,60:6d28d9,100:020617&text=VASIF%20KHORAJIYA&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=14&descAlignY=56&animation=fadeIn" width="100%" alt="Vasif Khorajiya profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:064e3b,60:6d28d9,100:020617&text=VASIF%20KHORAJIYA&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=14&descAlignY=56&animation=fadeIn" width="100%" alt="Vasif Khorajiya"/>
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=700&color=34D399&center=true&vCenter=true&width=750&lines=ASPIRING+DATA+ANALYST;PYTHON+%7C+SQL+%7C+DATA+VISUALIZATION;BCA+STUDENT+%7C+DEVELOPER;BUILDING+PROJECTS+WITH+PURPOSE;LEARN.+BUILD.+INNOVATE." alt="Animated introduction"/>
 
 <br/><br/>
 
-<a href="https://github.com/vasifkhorajiya?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-059669?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/></a>
-<a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/vasifkhorajiya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:vasifkhorajiya05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.instagram.com/mr_vasif_06/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://github.com/vasifkhorajiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/vasifkhorajiya?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-059669?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+<a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/vasifkhorajiya/"><img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
@@ -25,115 +22,81 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROFILE-ASPIRING%20DATA%20ANALYST-059669?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Aspiring Data Analyst"/>
-
-### Analytical Thinking. Technical Creativity. Continuous Growth.
-
-*I explore the intersection of data, technology, and problem-solving to create meaningful digital solutions.*
-
-</div>
-
 <table>
 <tr>
 <td width="65%" valign="top">
 
-### 👋 Introduction
+### Hello, I'm Vasif Khorajiya 👋
 
-I'm **Vasif Khorajiya**, a Bachelor of Computer Applications (BCA) student at **Darshan University, Rajkot**, with a strong interest in data analytics, programming, and software development.
+**BCA Student | Aspiring Data Analyst | Developer**
 
-My focus is on building a solid technical foundation, understanding how data can support better decisions, and applying programming concepts to practical projects.
+I'm a Bachelor of Computer Applications student at **Darshan University, Rajkot**, interested in data analytics, programming, and software development.
 
-I enjoy exploring datasets, learning analytical tools, developing applications, and solving problems through structured thinking. I believe that combining **analytical reasoning, programming skills, and practical experience** is an important step toward creating effective technology solutions.
+I enjoy working on practical projects, exploring technologies, and strengthening my problem-solving skills. My goal is to combine analytical thinking with technical knowledge to understand data, discover useful insights, and build meaningful digital solutions.
 
-### 🎯 Professional Objective
+#### What Defines Me
 
-To develop my capabilities in data analytics and visualization, strengthen my programming and database knowledge, and work toward becoming a data analyst who can transform raw information into clear, useful, and actionable insights.
+- 📊 **Data Analytics:** Exploring data analysis, data preparation, and visualization.
+- 🐍 **Programming:** Practising Python and developing programming fundamentals.
+- 🗄️ **Database Management:** Working with SQL and relational database concepts.
+- 🌐 **Development:** Building web and mobile application projects.
+- 🧠 **Problem-Solving:** Breaking complex tasks into manageable solutions.
+- 🚀 **Project-Based Learning:** Applying concepts through practical implementation.
 
 </td>
 <td width="35%" valign="top">
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,github&theme=dark" alt="Selected technologies"/>
+<img src="https://img.shields.io/badge/PROFILE-OVERVIEW-064E3B?style=for-the-badge" alt="Profile overview"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Data%20Analytics-064E3B?style=for-the-badge" alt="Data analytics focus"/>
+<img src="https://img.shields.io/badge/CAREER%20INTEREST-Data%20Analytics-059669?style=flat-square" alt="Career interest"/>
 
-<img src="https://img.shields.io/badge/FOUNDATION-Programming-065F46?style=for-the-badge" alt="Programming foundation"/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/INTEREST-Data%20Visualization-6D28D9?style=for-the-badge" alt="Data visualization"/>
+<img src="https://img.shields.io/badge/EDUCATION-BCA-7C3AED?style=flat-square" alt="Education"/>
 
-<img src="https://img.shields.io/badge/APPROACH-Project%20Based-2563EB?style=for-the-badge" alt="Project-based approach"/>
+<br/><br/>
 
-</div>
+<img src="https://img.shields.io/badge/LOCATION-Gujarat%2C%20India-0D9488?style=flat-square" alt="Location"/>
 
-</td>
-</tr>
-</table>
+<br/><br/>
 
-### 🧠 Core Interests
+<img src="https://img.shields.io/badge/APPROACH-Learn%20%26%20Build-2563EB?style=flat-square" alt="Approach"/>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<br/><br/>
 
-<div align="center">
+**My Objective**
 
-<img src="https://img.shields.io/badge/01-DATA%20ANALYTICS-059669?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data analytics"/>
+<sub>Develop strong analytical and technical foundations by learning, experimenting, and building practical projects.</sub>
 
 </div>
-
-Exploring data preparation, analysis, visualization, and reporting to understand patterns and communicate findings clearly.
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/02-TECHNOLOGY-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Technology"/>
-
-</div>
-
-Developing programming fundamentals and exploring web, mobile, and database technologies through hands-on projects.
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/03-PROBLEM%20SOLVING-0D9488?style=for-the-badge&logo=target&logoColor=white" alt="Problem solving"/>
-
-</div>
-
-Approaching challenges with logical thinking, curiosity, experimentation, and a focus on practical solutions.
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>💡 My Professional Mindset</b></summary>
+<summary><b>💡 My Development Philosophy</b></summary>
 
-I value curiosity, consistency, clear documentation, and learning by doing. I aim to understand the reasoning behind a solution rather than simply copying an implementation.
+I believe consistent practice and curiosity are essential for growth. I focus on understanding concepts, applying them to real projects, learning from challenges, and improving the quality of my work over time.
 
 ```python
 class VasifKhorajiya:
     role = "Aspiring Data Analyst"
-
     interests = [
         "Data Analytics",
         "Programming",
-        "Data Visualization",
         "Software Development"
     ]
 
-    philosophy = "Learn continuously. Build meaningfully."
+    def mindset(self):
+        return "Learn continuously. Build meaningfully."
 
 me = VasifKhorajiya()
-print(me.philosophy)
+print(me.mindset())
 ```
 
 </details>
@@ -144,11 +107,11 @@ print(me.philosophy)
 
 <div align="center">
 
-*Technologies and tools I explore and apply across analytics, programming, and application development.*
+*Technologies and tools I explore across data analytics, programming, and application development.*
 
 </div>
 
-### 📊 Data Analytics & Visualization
+### 📊 Data Analytics & Business Intelligence
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -159,19 +122,21 @@ print(me.philosophy)
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
+<sub>Areas of interest: data cleaning, exploratory analysis, reporting, and data visualization.</sub>
+
 ### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-</p>
-
-### 🌐 Web & Mobile Development
-
-<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### 🌐 Web & Application Development
+
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -195,29 +160,23 @@ print(me.philosophy)
 </p>
 
 <details>
-<summary><b>🔍 Technology Overview</b></summary>
+<summary><b>🔍 Technology Areas</b></summary>
 
 | Category | Technologies |
 |---|---|
-| Analytics | Python, Pandas, NumPy |
-| Visualization | Excel, Power BI, Tableau |
-| Programming | Python, JavaScript, Dart |
-| Web Development | HTML, CSS, React, Node.js, Express.js |
+| Data Analytics | Python, Pandas, NumPy |
+| Reporting & Visualization | Excel, Power BI, Tableau |
+| Web Fundamentals | HTML, CSS, JavaScript |
+| Frontend & Backend | React, Node.js, Express.js |
 | Mobile Development | Flutter, Dart |
 | Databases | PostgreSQL, MySQL, SQLite |
-| Developer Tools | Git, GitHub, Visual Studio Code |
+| Development Tools | Git, GitHub, VS Code |
 
 </details>
 
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-*Selected projects demonstrating my experience with web development, databases, and programming.*
-
-</div>
 
 <table>
 <tr>
@@ -235,9 +194,7 @@ print(me.philosophy)
 
 A full-stack restaurant management project connecting the frontend, backend, and database.
 
-**Technologies:**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,js&theme=dark" alt="React, Node.js, Express, PostgreSQL and JavaScript"/>
+**Technologies:** React.js · Node.js · Express.js · PostgreSQL · JavaScript
 
 **Focus:** Application development and database integration.
 
@@ -260,11 +217,9 @@ A full-stack restaurant management project connecting the frontend, backend, and
 
 </div>
 
-A frontend website project presenting Indian heritage using core web technologies.
+A frontend website project focused on presenting Indian heritage through web technologies.
 
-**Technologies:**
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript"/>
+**Technologies:** HTML · CSS · JavaScript
 
 **Focus:** Web design and frontend development.
 
@@ -289,13 +244,9 @@ A frontend website project presenting Indian heritage using core web technologie
 
 </div>
 
-A Python project using CSV files for library-related records and file-based data handling.
+A Python project that uses CSV files for library-related records and file-based data handling.
 
-**Technologies:**
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-
-<img src="https://img.shields.io/badge/CSV-File%20Storage-217346?style=flat-square&logo=files&logoColor=white" alt="CSV file storage"/>
+**Technologies:** Python · CSV
 
 **Focus:** Programming logic and data management.
 
@@ -320,9 +271,7 @@ A Python project using CSV files for library-related records and file-based data
 
 A mobile application project using Flutter and SQLite for local data storage.
 
-**Technologies:**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,sqlite&theme=dark" alt="Flutter, Dart and SQLite"/>
+**Technologies:** Flutter · Dart · SQLite
 
 **Focus:** Mobile application development and local data persistence.
 
@@ -338,7 +287,7 @@ A mobile application project using Flutter and SQLite for local data storage.
 
 <div align="center">
 
-<a href="https://github.com/vasifkhorajiya?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=34D399" alt="Explore all projects"/></a>
+<a href="https://github.com/vasifkhorajiya?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=34D399" alt="All repositories"/></a>
 
 </div>
 
@@ -348,7 +297,11 @@ A mobile application project using Flutter and SQLite for local data storage.
 
 <table>
 <tr>
-<td width="65" align="center" valign="middle">🎓</td>
+<td width="65" align="center" valign="middle">
+
+🎓
+
+</td>
 <td valign="middle">
 
 **Bachelor of Computer Applications (BCA)**
@@ -356,10 +309,18 @@ A mobile application project using Flutter and SQLite for local data storage.
 Darshan University, Rajkot
 
 </td>
-<td align="center" valign="middle">**2024–2027**</td>
+<td align="center" valign="middle">
+
+**2024–2027**
+
+</td>
 </tr>
 <tr>
-<td align="center" valign="middle">📘</td>
+<td align="center" valign="middle">
+
+📘
+
+</td>
 <td valign="middle">
 
 **Higher Secondary Education — Commerce**
@@ -367,10 +328,18 @@ Darshan University, Rajkot
 The Modern School, Wankaner
 
 </td>
-<td align="center" valign="middle">2023–2024</td>
+<td align="center" valign="middle">
+
+**2023–2024**
+
+</td>
 </tr>
 <tr>
-<td align="center" valign="middle">📗</td>
+<td align="center" valign="middle">
+
+📗
+
+</td>
 <td valign="middle">
 
 **Secondary School Education**
@@ -378,27 +347,35 @@ The Modern School, Wankaner
 GNMS School, Wankaner
 
 </td>
-<td align="center" valign="middle">2021–2022</td>
+<td align="center" valign="middle">
+
+**2021–2022**
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 ### Let's connect, collaborate, and share ideas!
 
-*Open to connecting with developers, students, and people interested in data analytics and technology.*
+*Interested in data analytics, software development, and building practical technology projects.*
 
 <br/>
 
-<a href="https://github.com/vasifkhorajiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/vasifkhorajiya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:vasifkhorajiya05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.instagram.com/mr_vasif_06/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/vasifkhorajiya"><img src="https://img.shields.io/badge/GitHub-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/vasifkhorajiya/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="mailto:vasifkhorajiya05@gmail.com"><img src="https://img.shields.io/badge/Email-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.instagram.com/mr_vasif_06/"><img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+<a href="https://github.com/vasifkhorajiya/VasifKhorajiya-Portfolio"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
