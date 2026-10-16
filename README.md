@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <a href="https://github.com/vasifkhorajiya">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:064e3b,60:6d28d9,100:020617&text=VASIF%20KHORAJIYA&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=14&descAlignY=56&animation=fadeIn" width="100%" alt="Vasif Khorajiya"/>
@@ -26,22 +26,28 @@
 <tr>
 <td width="65%" valign="top">
 
-### Hello, I'm Vasif Khorajiya 👋
+### 👋 Hi, I'm Vasif Khorajiya
 
-**BCA Student | Aspiring Data Analyst | Developer**
+**Aspiring Data Analyst | BCA Student | Technology Enthusiast**
 
-I'm a Bachelor of Computer Applications student at **Darshan University, Rajkot**, interested in data analytics, programming, and software development.
+I'm currently pursuing my **Bachelor of Computer Applications (BCA) at Darshan University, Rajkot**, with a strong interest in data analytics, programming, and technology-driven problem-solving.
 
-I enjoy working on practical projects, exploring technologies, and strengthening my problem-solving skills. My goal is to combine analytical thinking with technical knowledge to understand data, discover useful insights, and build meaningful digital solutions.
+I enjoy transforming ideas into practical projects, exploring how data can reveal meaningful insights, and developing applications that solve real-world problems. I believe that combining analytical thinking with technical skills is essential to building smarter, data-informed solutions.
 
-#### What Defines Me
+### 🎯 My Professional Interests
 
-- 📊 **Data Analytics:** Exploring data analysis, data preparation, and visualization.
-- 🐍 **Programming:** Practising Python and developing programming fundamentals.
-- 🗄️ **Database Management:** Working with SQL and relational database concepts.
-- 🌐 **Development:** Building web and mobile application projects.
-- 🧠 **Problem-Solving:** Breaking complex tasks into manageable solutions.
-- 🚀 **Project-Based Learning:** Applying concepts through practical implementation.
+- 📊 **Data Analytics & Visualization** — Exploring data to identify patterns, understand trends, and communicate insights effectively.
+- 🐍 **Python & Programming** — Strengthening programming fundamentals and learning to work with data efficiently.
+- 🗄️ **SQL & Database Management** — Understanding structured data, database relationships, and data retrieval.
+- 📈 **Business Intelligence** — Exploring reporting and visualization tools to make information easier to understand.
+- 💻 **Software Development** — Building practical web and mobile application projects.
+- 🧩 **Analytical Problem-Solving** — Approaching challenges with logical thinking, curiosity, and continuous improvement.
+
+### 🚀 What I'm Working Toward
+
+My goal is to develop strong foundations in **data analysis, SQL, Python, and data visualization** while building a portfolio of practical projects that demonstrates my technical growth, problem-solving ability, and analytical mindset.
+
+I value consistency, hands-on learning, and the opportunity to turn knowledge into something useful.
 
 </td>
 <td width="35%" valign="top">
@@ -52,7 +58,7 @@ I enjoy working on practical projects, exploring technologies, and strengthening
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CAREER%20INTEREST-Data%20Analytics-059669?style=flat-square" alt="Career interest"/>
+<img src="https://img.shields.io/badge/CAREER%20FOCUS-Data%20Analytics-059669?style=flat-square" alt="Career focus"/>
 
 <br/><br/>
 
@@ -60,17 +66,27 @@ I enjoy working on practical projects, exploring technologies, and strengthening
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LOCATION-Gujarat%2C%20India-0D9488?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/CORE%20SKILL-Problem%20Solving-2563EB?style=flat-square" alt="Core skill"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/APPROACH-Learn%20%26%20Build-2563EB?style=flat-square" alt="Approach"/>
+<img src="https://img.shields.io/badge/INTERESTS-Python%20%7C%20SQL-0D9488?style=flat-square" alt="Interests"/>
 
 <br/><br/>
 
-**My Objective**
+<img src="https://img.shields.io/badge/LOCATION-Gujarat%2C%20India-0891B2?style=flat-square" alt="Location"/>
 
-<sub>Develop strong analytical and technical foundations by learning, experimenting, and building practical projects.</sub>
+<br/><br/>
+
+### 💡 My Mission
+
+*Learn continuously. Analyze thoughtfully. Build meaningful solutions.*
+
+<br/>
+
+<a href="https://github.com/vasifkhorajiya?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-059669?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/>
+</a>
 
 </div>
 
