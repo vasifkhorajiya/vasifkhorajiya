@@ -125,7 +125,7 @@ print(me.mindset())
 
 <div align="center">
 
-*Technologies and tools I explore across data analytics, programming, and application development.*
+*Technologies and tools I explore across data analytics, programming, cloud platforms, and application development.*
 
 </div>
 
@@ -133,14 +133,18 @@ print(me.mindset())
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/EDA-0D9488?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Exploratory Data Analysis"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
-<sub>Areas of interest: data cleaning, exploratory analysis, reporting, and data visualization.</sub>
+<sub>Areas of interest: data cleaning, exploratory data analysis, SQL analysis, reporting, and visualization.</sub>
 
 ### 💻 Programming Languages
 
@@ -169,12 +173,22 @@ print(me.mindset())
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-### 🛠️ Developer Tools
+### ☁️ Cloud & AI Tools
 
 <p>
+<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="Amazon Web Services (AWS)"/>
+<img src="https://img.shields.io/badge/AI%20Tools-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools"/>
+</p>
+
+### 🛠️ Developer Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+<img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" alt="Android Studio"/>
 </p>
 
 <details>
@@ -182,13 +196,14 @@ print(me.mindset())
 
 | Category | Technologies |
 |---|---|
-| Data Analytics | Python, Pandas, NumPy |
+| Data Analytics | Python, NumPy, Pandas, Matplotlib, Seaborn, EDA, SQL |
 | Reporting & Visualization | Excel, Power BI, Tableau |
-| Web Fundamentals | HTML, CSS, JavaScript |
+| Programming & Web Fundamentals | Python, HTML, CSS, JavaScript, Dart |
 | Frontend & Backend | React, Node.js, Express.js |
 | Mobile Development | Flutter, Dart |
 | Databases | PostgreSQL, MySQL, SQLite |
-| Development Tools | Git, GitHub, VS Code |
+| Cloud & AI | Amazon Web Services (AWS), AI Tools |
+| Development Tools & Platforms | VS Code, Git, GitHub, Jupyter Notebook, MySQL Workbench, Android Studio |
 
 </details>
 
